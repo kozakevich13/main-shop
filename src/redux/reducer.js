@@ -12,9 +12,19 @@ const init = {
                 height: 200
                 },
             weight: "200g",
-            comments: ["CommentModel", "CommentModel"],
             description:"Product description",
-            isDone:true,
+            comments: [
+                {
+                    userName: "Nick",
+                    description: "same text",
+                    data: "21.02.22"
+                },
+                {
+                    userName: "Nick2",
+                    description: "same text2",
+                    data: "21.02.22"
+                }
+            ]
         },
         {
             id:Math.random(),
@@ -26,9 +36,19 @@ const init = {
                 height: 200
                 },
             weight: "200g",
-            comments: ["CommentModel", "CommentModel"],
             description:"Product description",
-            isDone:true,
+            comments: [
+                {
+                    userName: "Nick",
+                    description: "same text",
+                    data: "21.02.22"
+                },
+                {
+                    userName: "Nick2",
+                    description: "same text2",
+                    data: "21.02.22"
+                }
+            ]
         },
         {
             id:Math.random(),
@@ -40,9 +60,19 @@ const init = {
                 height: 200
                 },
             weight: "200g",
-            comments: ["CommentModel", "CommentModel"],
             description:"Product description",
-            isDone:true,
+            comments: [
+                {
+                    userName: "Nick",
+                    description: "same text",
+                    data: "21.02.22"
+                },
+                {
+                    userName: "Nick2",
+                    description: "same text2",
+                    data: "21.02.22"
+                }
+            ]
         },
         {
             id:Math.random(),
@@ -54,9 +84,19 @@ const init = {
                 height: 200
                 },
             weight: "200g",
-            comments: ["CommentModel", "CommentModel"],
             description:"Product description",
-            isDone:true,
+            comments: [
+                {
+                    userName: "Nick",
+                    description: "same text",
+                    data: "21.02.22"
+                },
+                {
+                    userName: "Nick2",
+                    description: "same text2",
+                    data: "21.02.22"
+                }
+            ]
         },
 
     ],
